@@ -1,5 +1,7 @@
 # ShadowPrompt v2.6 — Indirect AI Prompt Injection & Steganographic Document Firewall
 
+- **Candidate Name:** Parth Sarthi Pandey
+- **Program:** IBM CEP Virtual Internship in Cyber Security (`PBELCS321IN`)
 - **Domain:** AI Security / Application Security (OWASP LLM01: Prompt Injection)
 
 ## Overview

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # ShadowPrompt v2.6 - Indirect AI Prompt Injection & Document Poisoning Firewall
+# Author: Parth Sarthi Pandey (IBM Cyber Security Virtual Internship Project - PBELCS321IN)
 # Aligned with: OWASP Top 10 for LLM Applications (LLM01: Prompt Injection)
 
 import re
